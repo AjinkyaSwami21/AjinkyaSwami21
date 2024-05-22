@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajinkya Swami
-- 👀 I’m interested in Business Analyst
+- 👀 I’m interested in Business Analysis
 - 🌱 I’m currently learning SQL & Python
-- 💞️ I’m looking to collaborate on data related field
+- 💞️ I’m looking to collaborate with data related field
 - 📫 How to reach me ajinkyaswami97@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: If data is smoke, analysis is the fire😉
